@@ -1,0 +1,8 @@
+{
+    "Books": [
+        {"id":1, "title": "Apple", "genre":"Adventure", "synopsis": "Apples everywhere. Run if you can", "Author": "Cleaver Applebee", "image": "../assets/Screenshot (49).png" },
+        {"id":2, "title": "Tart", "genre":"Gore", "synopsis": "I dont even know what tarts are. Fruit? Pie?", "Author": "Cleaver Applebee", "image": "../assets/Screenshot (48).png "},
+        {"id":3, "title": "Cherry", "genre":"Fantasy", "synopsis": "Cherries In Space. Can You even Run?", "Author": "Cleaver Applebee", "image": "../assets/Screenshot (42).png"}
+    ]
+    
+}
